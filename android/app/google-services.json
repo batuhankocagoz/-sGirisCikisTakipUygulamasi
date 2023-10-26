@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591763054145",
+    "project_id": "sirkettakipsistemi",
+    "storage_bucket": "sirkettakipsistemi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591763054145:android:4297d48f0068deb30d70c0",
+        "android_client_info": {
+          "package_name": "com.example.sirkettakipsistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591763054145-9dng486f0q0ud0kqfomebu4882f96ojk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJtwzvVoIEBtRrYp0WFv3TpXm85xuC_M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591763054145-9dng486f0q0ud0kqfomebu4882f96ojk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
